@@ -27,6 +27,7 @@ This project is intended as a portfolio work, showcasing data visualization and 
 
 ## Project Structure (tentative)
 
+```
 macro-vis-jp/
 │
 ├── data/ # CSV files or datasets
@@ -34,7 +35,7 @@ macro-vis-jp/
 ├── README.md
 ├── requirements.txt # Dependencies (if needed)
 └── sample.txt # (Temporary, will be removed later)
-
+```
 
 ## License
 
