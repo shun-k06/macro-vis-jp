@@ -1,0 +1,22 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+.env/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files created by editors
+*~
