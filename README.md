@@ -18,6 +18,10 @@ This project is intended as a portfolio work, showcasing data visualization and 
 - [ ] Interactive interface with Streamlit
 - [ ] API integration (e.g., e-Stat, IMF)
 
+## Implemented Features
+
+- Time series graph of real GDP(value) from 1994 to 2024 (May 18)
+
 ## Tech Stack
 
 - Language: Python 3
