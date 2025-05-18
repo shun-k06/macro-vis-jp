@@ -37,8 +37,7 @@ macro-vis-jp/
 ├── data/ # CSV files or datasets
 ├── src/ # Python scripts
 ├── README.md
-├── requirements.txt # Dependencies (if needed)
-└── sample.txt # (Temporary, will be removed later)
+└── requirements.txt # Dependencies (if needed)
 ```
 
 ## License
